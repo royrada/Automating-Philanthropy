@@ -8,7 +8,7 @@ The Form 990 code uses Excel VBA to score IRS Form 990s submitted by 501(c)(3) o
 
 The Scholarship Directory information is scraped from the Labor Department website using Python and associated tools.
 
-# But first an update
+## But first an update
 
 On April 4, 2026 a new subproject for scraping and analyzing minimum endowment amounts has been included in
 FindingMinimumEndowmentAmounts.  See its README for details.
