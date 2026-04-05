@@ -1,0 +1,9 @@
+
+## Best Quote #1
+### URL: https://cfoncw.org/wausau-marathon-county-fund/
+#### Minimal dollar amount: 
+- Quote verbatim: for growth. Your donation will live in the fund and generate earnings to fuel grants year after year. Donors who give $250,000 or more to the Wausau Marathon County Impact Funds establish a Named Unrestricted Fund for Marathon County to help
+- creationScore: 3
+- fundScore: 0
+- minScore: 1
+- sumScore: 4

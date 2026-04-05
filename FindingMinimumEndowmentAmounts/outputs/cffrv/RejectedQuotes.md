@@ -1,0 +1,6 @@
+| quote | url | reason |
+| --- | --- | --- |
+| , the Community Foundation provides profiles of its endowment fund donors in each of its annual reports . A gift of $10,000 ($25,000 for scholarships) or more will enable a fund to be classified as an endowment. Pass-thru funds are temporary  | https://www.cffrv.org/give/creating-fund/ | table_aNum |
+|  Community Foundation provides profiles of its endowment fund donors in each of its annual reports . A gift of $10,000 ($25,000 for scholarships) or more will enable a fund to be classified as an endowment. Pass-thru funds are temporary funds in  | https://www.cffrv.org/give/creating-fund/ | table_aNum |
+| , the Community Foundation provides profiles of its endowment fund donors in each of its annual reports . A gift of $10,000 ($25,000 for scholarships) or more will enable a fund to be classified as an endowment. Pass-thru funds are temporary  | https://www.cffrv.org/donors/creating-fund/ | table_aNum |
+|  Community Foundation provides profiles of its endowment fund donors in each of its annual reports . A gift of $10,000 ($25,000 for scholarships) or more will enable a fund to be classified as an endowment. Pass-thru funds are temporary funds in  | https://www.cffrv.org/donors/creating-fund/ | table_aNum |

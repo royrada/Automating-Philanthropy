@@ -1,0 +1,5 @@
+| quote | url | reason |
+| --- | --- | --- |
+|  on the incoming students FAFSA and total resources (outside scholarships, parental support, etc.) no greater than $5,000). Renewable: No Alamo Scholarship Amount: $10,000 Awarded to: Up to six incoming students who are current residents of Texas. Renewable: No Riverside Health Scholarship  | https://www.kansascity.edu/admissions/financial-aid/scholarships/first-year-com-scholarships | name |
+|  and current President and CEO, Marc B. Hahn, DO, FAOCA, the University recognizes the alumni and friends who commit $5,000 or above in a calendar year to the success of our students. Gold Society The Gold Society recognizes alumni and  | https://kansascity.edu/give/giving-societies | name |
+|  on the incoming students FAFSA and total resources (outside scholarships, parental support, etc.) no greater than $5,000). Renewable: No Alamo Scholarship Amount: $10,000 Awarded to: Up to six incoming students who are current residents of Texas. Renewable: No Riverside Health Scholarship  | https://kansascity.edu/admissions/financial-aid/scholarships/first-year-com-scholarships | name |

@@ -1,0 +1,3 @@
+| quote | url | reason |
+| --- | --- | --- |
+|  When you endow a fund for students, you have an impact on generations. Over the ten years ending June 30, 2025, a $100,000 scholarship invested in Yale’s endowment would have grown to $246,575, exclusive of spending. With annual payouts,  | https://giving.yale.edu/scholarships-fellowships | name |

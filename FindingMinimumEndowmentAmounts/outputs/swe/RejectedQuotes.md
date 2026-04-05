@@ -1,0 +1,6 @@
+| quote | url | reason |
+| --- | --- | --- |
+|  $1,000 scholarships each year after the endowed funds have been invested for at least one fiscal year. If a gift over $25,000 is made, the amount available for distribution is proportionally higher. In many cases, an individual elects to endow  | https://swe.org/donate-to-endowed-scholarships | name |
+|  endowing $125,000+ Silver Criteria Form With Standard Criteria For individuals or organizations endowing between $25,000 to $124,999. Section Endowed Criteria Form For SWE Sections endowing $25,000+ Estate Planning Criteria Form For individuals wishing to endow a scholarship via their estate. Endowed Scholarship  | https://swe.org/donate-to-endowed-scholarships | name |
+|  Alma Kuppinger Forman, PE Scholarship (Est. 2013) $1,875 Amateur Radio Digital Communications Scholarship – Freshman $5,000 Amateur Radio Digital Communications Scholarship – Sophomore to Graduate $7,500 Anne Maureen Whitney Barrow Memorial  | https://swe.org/society-selected-scholarships | name |
+| , Computer Engineering, Electrical and Electronics Engineering, Mechanical Engineering, Software Engineering Amount: $5,000 Preference given to candidates from under-represented groups. Minimum GPA: 3.0. Tweet Share Share 0 Shares corporate  | https://swe.org/scholarships/ansys-scholarship/ | name |

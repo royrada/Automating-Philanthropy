@@ -1,0 +1,17 @@
+| url | score | http_status | error |
+| --- | --- | --- | --- |
+| https://cincinnatischolarshipfoundation.org/#About | 2 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/for-donors | 2 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/make-a-donation | 2 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/make-a-donation#Once | 2 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/make-a-donation#Monthly | 2 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/establish-a-scholarship/ | 2 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/scholarships/black-achievers-college-scholarship-fund/ | 2 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/ | 1 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/#Contact | 1 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/meet-our-team/ | 1 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/mission-vision/ | 1 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/students-parents/ | 1 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/student-resources/ | 1 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/list-of-scholarships/ | 1 | 200 | None |
+| https://cincinnatischolarshipfoundation.org/apply-for-a-scholarship/ | 1 | 200 | None |

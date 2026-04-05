@@ -1,0 +1,30 @@
+{"url": "https://swe.org/support-swe/donate-to-endowed-scholarships/", "score": 4, "http_status": 200, "error": null}
+{"url": "https://swe.org/donate-to-endowed-scholarships", "score": 3, "http_status": 200, "error": null}
+{"url": "https://swe.org/support-swe/donate-and-other-ways-to-give/", "score": 3, "http_status": 200, "error": null}
+{"url": "https://swe.org/support-swe/payroll-giving/", "score": 2, "http_status": 200, "error": null}
+{"url": "https://swe.org/support-swe/match-your-donation/", "score": 2, "http_status": 200, "error": null}
+{"url": "https://swe.org/about-swe/governance/committees/finance-committee/", "score": 2, "http_status": 200, "error": null}
+{"url": "https://swe.org/support-swe/company-volunteering-gift-matching-program/", "score": 2, "http_status": null, "error": "HTTPSConnectionPool(host='swe.org', port=443): Read timed out. (read timeout=10)"}
+{"url": "https://swe.org/awards/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/awards/swe-recognition-program/", "score": 2, "http_status": 200, "error": null}
+{"url": "https://swe.org/about-swe/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/scholarships/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://advancelearning.swe.org/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://advancelearning.swe.org/cart", "score": 1, "http_status": null, "error": "HTTPSConnectionPool(host='portal.swe.org', port=443): Max retries exceeded with url: /s/store (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"}
+{"url": "https://swe.org/about-swe/press-page/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/scholarships-timeline/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/awards/we-local-awards/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/outreach/swenext-awards/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/partner/pg-scholarships/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/about-swe/privacy-policy/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/awards/individual-awards/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/awards/swe-awards-program/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/awards/swe-mission-awards/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/apply-for-a-swe-scholarship/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/society-selected-scholarships", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/scholarships/alice-may-anderson-scholarship-fund/", "score": 2, "http_status": 200, "error": null}
+{"url": "https://advancelearning.swe.org/learning_paths", "score": 1, "http_status": 200, "error": null}
+{"url": "https://advancelearning.swe.org/product_bundles", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/awards/collegiate-competitions/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/scholarships/ansys-scholarship/", "score": 1, "http_status": 200, "error": null}
+{"url": "https://swe.org/about-swe/governance/committees/", "score": 1, "http_status": 200, "error": null}

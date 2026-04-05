@@ -1,0 +1,3 @@
+| quote | url | reason |
+| --- | --- | --- |
+| .  Thank you for partnering with us to build a stronger, more vibrant future for our region. Pillar of Philanthropy  ($5,000 and Above) Community Partner ($2,500 - $4,999) Local Champion  ($1,000 - $2,499) Area Supporter   ($250 - $999)  | https://pacfwv.com/giving/search-all-funds | name |
