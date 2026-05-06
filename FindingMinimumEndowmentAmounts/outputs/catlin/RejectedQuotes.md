@@ -1,6 +1,0 @@
-| quote | url | reason |
-| --- | --- | --- |
-|  Salaries and benefits represent 70% of Catlin Gabel’s operating expenses Faculty Development Catlin Gabel invests over $200,000 annually in professional development to keep teachers at the forefront of progressive education. Athletics 80% of  | https://www.catlin.edu/give-to-cg/cgfund | name |
-|  $500: Speed bump for the parking lot $2,500: Learning support materials for all Beginning and Lower School classrooms $5,000: LED lighting in the Gym $29,600: Average financial assistance award Learn More News & Donor Stories Annual Report 2023 | https://www.catlin.edu/give-to-cg | name |
-|  $500: Speed bump for the parking lot $2,500: Learning support materials for all Beginning and Lower School classrooms $5,000: LED lighting in the Gym $29,600: Average financial assistance award Learn More In This Section Make a Gift Ways to  | https://www.catlin.edu/give-to-cg/ways-to-give | name |
-| @gmail.com or (508) 269-4668. What amount of support is available? The Catlin Gabel Therapy Fund provides a $10,000 lifetime maximum for covered services for approved former students, including coverage for past therapy related to  | https://www.catlin.edu/our-community/alumni/investigation-response | name |
